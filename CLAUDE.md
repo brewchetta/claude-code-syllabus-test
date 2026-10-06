@@ -86,3 +86,4 @@ There is no test suite. After a change:
 - Don't add a backend, forms that submit data, or user accounts.
 - Don't collect or display student personal data.
 - Don't add dependencies or a build tooling setup without asking first.
+- Don't squash commits before a push or PR. Don't rewrite history or force-push unless asked.
